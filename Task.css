@@ -1,0 +1,59 @@
+body{
+    background-color:aquamarine;
+    width: auto;
+}
+ul{
+    width: 100%;
+    padding: 0;
+    margin-left: 550px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    list-style-type: none;
+    background-color: Red;
+    
+}
+
+ul li{
+    width: 150px;
+    float: left;
+    background-color:aqua;
+}
+
+li a{
+    padding: 8px 0px 8px 16px;
+    display: block;
+    text-decoration: none;
+    color: red;
+    font-size: 15pt;
+}
+
+ul li a:hover{
+    background-color:cadetblue;
+}
+
+ul li a:active{
+    background-color: blue;
+}
+
+imgs{
+    float: left;
+    display: block;
+   
+}
+img{
+    padding-left: 10px;
+    padding-top: 20px;
+}
+#kh{
+    padding-left:150px; 
+}
+#conta{
+    text-align: center;
+    font-family: cursive;
+}
+#conta2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    color: blue;
+}
